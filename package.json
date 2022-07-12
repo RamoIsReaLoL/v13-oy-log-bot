@@ -1,0 +1,27 @@
+{
+  "name": "RamoIsReaLoL",
+  "version": "0.0.1",
+  "description": "Oy Log Botu",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^13.8.1",
+    "@top-gg/sdk": "^3.1.1",
+    "dblapi.js": "^2.4.1"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "repository": {
+    "url": "https://github.com/RamoIsReaLoL/v13-oy-log-bot"
+  },
+  "license": "MIT",
+  "keywords": [
+    "top.gg",
+    "github",
+    "covid-19"
+  ]
+}
